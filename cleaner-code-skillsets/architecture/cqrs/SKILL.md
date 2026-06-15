@@ -9,8 +9,8 @@ Use CQRS when separating commands and queries solves a present pressure. Do not 
 
 ## References
 
-- `cleaner-code-skillsets/shared/references/architecture-decision-rubric.md`
-- `cleaner-code-skillsets/shared/references/architecture-output-contract.md`
+- `references/architecture-decision-rubric.md`
+- `references/architecture-output-contract.md`
 
 ## Fit
 

@@ -9,8 +9,8 @@ Use Hexagonal Architecture when external adapters are distorting core applicatio
 
 ## References
 
-- `cleaner-code-skillsets/shared/references/architecture-decision-rubric.md`
-- `cleaner-code-skillsets/shared/references/architecture-output-contract.md`
+- `references/architecture-decision-rubric.md`
+- `references/architecture-output-contract.md`
 
 ## Fit
 

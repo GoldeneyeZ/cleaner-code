@@ -9,9 +9,9 @@ Use Abstract Factory when clients need families of related products that must be
 
 ## References
 
-- `cleaner-code-skillsets/shared/references/pattern-safety-rules.md`
-- `cleaner-code-skillsets/shared/references/pattern-output-contract.md`
-- `cleaner-code-skillsets/shared/references/refactoring-safety-rules.md`
+- `references/pattern-safety-rules.md`
+- `references/pattern-output-contract.md`
+- `references/refactoring-safety-rules.md`
 
 ## Use When
 
@@ -46,4 +46,4 @@ Use Abstract Factory when clients need families of related products that must be
 
 ## Output
 
-Follow `cleaner-code-skillsets/shared/references/pattern-output-contract.md`. The final decision must be `Apply pattern`, `Use simpler refactor`, or `Do not change`.
+Follow `references/pattern-output-contract.md`. The final decision must be `Apply pattern`, `Use simpler refactor`, or `Do not change`.

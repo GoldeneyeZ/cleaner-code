@@ -9,9 +9,9 @@ Use Flyweight only for proven scale pressure. Do not use it before memory, alloc
 
 ## References
 
-- `cleaner-code-skillsets/shared/references/pattern-safety-rules.md`
-- `cleaner-code-skillsets/shared/references/pattern-output-contract.md`
-- `cleaner-code-skillsets/shared/references/refactoring-safety-rules.md`
+- `references/pattern-safety-rules.md`
+- `references/pattern-output-contract.md`
+- `references/refactoring-safety-rules.md`
 
 ## Use When
 
@@ -45,4 +45,4 @@ Use Flyweight only for proven scale pressure. Do not use it before memory, alloc
 
 ## Output
 
-Follow `cleaner-code-skillsets/shared/references/pattern-output-contract.md`. The final decision must be `Apply pattern`, `Use simpler refactor`, or `Do not change`.
+Follow `references/pattern-output-contract.md`. The final decision must be `Apply pattern`, `Use simpler refactor`, or `Do not change`.

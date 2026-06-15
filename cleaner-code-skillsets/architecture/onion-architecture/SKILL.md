@@ -9,8 +9,8 @@ Use Onion Architecture when the domain model should sit at the center of depende
 
 ## References
 
-- `cleaner-code-skillsets/shared/references/architecture-decision-rubric.md`
-- `cleaner-code-skillsets/shared/references/architecture-output-contract.md`
+- `references/architecture-decision-rubric.md`
+- `references/architecture-output-contract.md`
 
 ## Fit
 

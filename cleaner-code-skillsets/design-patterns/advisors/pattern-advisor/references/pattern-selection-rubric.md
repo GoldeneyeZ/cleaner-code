@@ -1,0 +1,1 @@
+../../../../shared/references/pattern-selection-rubric.md

@@ -1,0 +1,1 @@
+../../../shared/references/architecture-output-contract.md

@@ -9,8 +9,8 @@ Use Ports and Adapters to separate core use cases from external mechanisms.
 
 ## References
 
-- `cleaner-code-skillsets/shared/references/architecture-decision-rubric.md`
-- `cleaner-code-skillsets/shared/references/architecture-output-contract.md`
+- `references/architecture-decision-rubric.md`
+- `references/architecture-output-contract.md`
 
 ## Fit
 

@@ -9,8 +9,8 @@ Use Service Layer to coordinate application use cases. Do not use it as a dumpin
 
 ## References
 
-- `cleaner-code-skillsets/shared/references/architecture-decision-rubric.md`
-- `cleaner-code-skillsets/shared/references/architecture-output-contract.md`
+- `references/architecture-decision-rubric.md`
+- `references/architecture-output-contract.md`
 
 ## Fit
 

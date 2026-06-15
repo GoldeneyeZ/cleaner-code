@@ -9,7 +9,7 @@ Review security risks. Report findings first, ordered by severity.
 
 ## Reference
 
-Use `cleaner-code-skillsets/shared/references/audit-severity-rubric.md`.
+Use `references/audit-severity-rubric.md`.
 
 ## Check
 

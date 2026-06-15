@@ -9,9 +9,9 @@ Use Command when an action needs its own identity and lifecycle. Do not use it j
 
 ## References
 
-- `cleaner-code-skillsets/shared/references/pattern-safety-rules.md`
-- `cleaner-code-skillsets/shared/references/pattern-output-contract.md`
-- `cleaner-code-skillsets/shared/references/refactoring-safety-rules.md`
+- `references/pattern-safety-rules.md`
+- `references/pattern-output-contract.md`
+- `references/refactoring-safety-rules.md`
 
 ## Use When
 
@@ -45,4 +45,4 @@ Use Command when an action needs its own identity and lifecycle. Do not use it j
 
 ## Output
 
-Follow `cleaner-code-skillsets/shared/references/pattern-output-contract.md`. The final decision must be `Apply pattern`, `Use simpler refactor`, or `Do not change`.
+Follow `references/pattern-output-contract.md`. The final decision must be `Apply pattern`, `Use simpler refactor`, or `Do not change`.

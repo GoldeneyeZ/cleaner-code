@@ -9,7 +9,7 @@ Discover local style before recommending changes.
 
 ## Reference
 
-Use `cleaner-code-skillsets/shared/references/convention-discovery.md`.
+Use `references/convention-discovery.md`.
 
 ## Check
 

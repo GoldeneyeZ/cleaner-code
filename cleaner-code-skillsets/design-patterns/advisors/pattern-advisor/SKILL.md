@@ -13,9 +13,9 @@ Do not start from a pattern name. Start from evidence in the code.
 
 Follow:
 
-- `cleaner-code-skillsets/shared/references/pattern-safety-rules.md`
-- `cleaner-code-skillsets/shared/references/pattern-selection-rubric.md`
-- `cleaner-code-skillsets/shared/references/pattern-output-contract.md`
+- `references/pattern-safety-rules.md`
+- `references/pattern-selection-rubric.md`
+- `references/pattern-output-contract.md`
 
 ## Use When
 

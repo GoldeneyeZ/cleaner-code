@@ -1,0 +1,1 @@
+../../../../shared/references/pattern-output-contract.md
