@@ -12,7 +12,7 @@ Done. All architecture skills have been created and verified.
 
 ## Files To Create Or Update
 
-- `skillsets/architecture/*/SKILL.md`
+- `cleaner-code-skillsets/architecture/*/SKILL.md`
 - `docs/plan/goal-progression.md`
 - `docs/plan/context-GD-009.md`
 
@@ -25,13 +25,13 @@ Every architecture skill must define fit by scale, tradeoffs, migration safety, 
 ## Validation To Record
 
 - File count:
-  `find skillsets/architecture -mindepth 2 -maxdepth 2 -name SKILL.md -type f | sort | wc -l`
+  `find cleaner-code-skillsets/architecture -mindepth 2 -maxdepth 2 -name SKILL.md -type f | sort | wc -l`
   returned `19`.
 - Frontmatter:
-  `rg -n "^name: |^description: Use when" skillsets/architecture/*/SKILL.md`
+  `rg -n "^name: |^description: Use when" cleaner-code-skillsets/architecture/*/SKILL.md`
   found `name` and trigger-oriented `description` entries for all architecture skills.
 - Shared references, scale, tradeoffs, and refusal criteria:
-  `rg -n "architecture-decision-rubric|architecture-output-contract|Scale:|## Do Not Use When|## Tradeoffs" skillsets/architecture/*/SKILL.md`
+  `rg -n "architecture-decision-rubric|architecture-output-contract|Scale:|## Do Not Use When|## Tradeoffs" cleaner-code-skillsets/architecture/*/SKILL.md`
   found the required references and sections in all architecture skills.
 - Generated-text scan across architecture skills returned no matches for unresolved markers or bracket-slot text.
 

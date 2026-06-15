@@ -26,7 +26,7 @@ Final validation completed. No further implementation-loop tasks remain in `docs
 - Frontmatter and trigger descriptions:
   the same validator reported `frontmatter_errors=0`; each listed skill has `name` and a `description` beginning with `Use when`.
 - Generated skill content:
-  `rg` red-flag scan across `skillsets` returned no matches for unresolved markers or bracket-slot text.
+  `rg` red-flag scan across `cleaner-code-skillsets` returned no matches for unresolved markers or bracket-slot text.
 - Context content:
   `rg` red-flag scan across `docs/plan/context-GD-*.md` returned no matches for unresolved markers or bracket-slot text.
 - Installer and build-system guard:

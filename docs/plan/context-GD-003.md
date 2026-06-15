@@ -17,22 +17,22 @@ Done. The representative Strategy, Factory Method, and Adapter pattern skills ha
 
 ## Files To Create Or Update
 
-- `skillsets/design-patterns/behavioral/strategy/SKILL.md`
-- `skillsets/design-patterns/creational/factory-method/SKILL.md`
-- `skillsets/design-patterns/structural/adapter/SKILL.md`
+- `cleaner-code-skillsets/design-patterns/behavioral/strategy/SKILL.md`
+- `cleaner-code-skillsets/design-patterns/creational/factory-method/SKILL.md`
+- `cleaner-code-skillsets/design-patterns/structural/adapter/SKILL.md`
 - `docs/plan/goal-progression.md`
 - `docs/plan/context-GD-003.md`
 
 ## Handoff Notes
 
-The next loop should read `docs/plan/goal-progression.md`, select GD-004, and create `skillsets/design-patterns/creational/abstract-factory/SKILL.md`.
+The next loop should read `docs/plan/goal-progression.md`, select GD-004, and create `cleaner-code-skillsets/design-patterns/creational/abstract-factory/SKILL.md`.
 
 Each representative skill should follow the shared pattern safety rules, selection rubric, and output contract. Each must refuse itself when the pattern is not justified.
 
 ## Validation To Record
 
 - File existence:
-  `find skillsets/design-patterns/behavioral/strategy skillsets/design-patterns/creational/factory-method skillsets/design-patterns/structural/adapter -name SKILL.md -type f | sort`
+  `find cleaner-code-skillsets/design-patterns/behavioral/strategy cleaner-code-skillsets/design-patterns/creational/factory-method cleaner-code-skillsets/design-patterns/structural/adapter -name SKILL.md -type f | sort`
   returned all three representative files.
 - Frontmatter:
   `rg -n "^name: |^description: Use when" ...`

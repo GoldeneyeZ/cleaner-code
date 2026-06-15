@@ -12,28 +12,28 @@ Done. The pattern advisor skill has been created and verified against all GD-002
 
 ## Files To Create Or Update
 
-- `skillsets/design-patterns/advisors/pattern-advisor/SKILL.md`
+- `cleaner-code-skillsets/design-patterns/advisors/pattern-advisor/SKILL.md`
 - `docs/plan/goal-progression.md`
 - `docs/plan/context-GD-002.md`
 
 ## Handoff Notes
 
-The next loop should read `docs/plan/goal-progression.md`, select GD-003, and create `skillsets/design-patterns/behavioral/strategy/SKILL.md`.
+The next loop should read `docs/plan/goal-progression.md`, select GD-003, and create `cleaner-code-skillsets/design-patterns/behavioral/strategy/SKILL.md`.
 
 The advisor should use the shared pattern safety rules, selection rubric, and output contract. It must be able to recommend no pattern when a smaller refactor fits.
 
 ## Validation To Record
 
 - File existence:
-  `test -f skillsets/design-patterns/advisors/pattern-advisor/SKILL.md` exited `0`.
+  `test -f cleaner-code-skillsets/design-patterns/advisors/pattern-advisor/SKILL.md` exited `0`.
 - Frontmatter:
-  `sed -n '1,12p' skillsets/design-patterns/advisors/pattern-advisor/SKILL.md`
+  `sed -n '1,12p' cleaner-code-skillsets/design-patterns/advisors/pattern-advisor/SKILL.md`
   showed `name: pattern-advisor` and a `description` starting with `Use when`.
 - No-pattern and simpler-refactor support:
-  `rg -n "Do not use a pattern|Use simpler refactor|smaller refactor|no pattern" skillsets/design-patterns/advisors/pattern-advisor/SKILL.md`
+  `rg -n "Do not use a pattern|Use simpler refactor|smaller refactor|no pattern" cleaner-code-skillsets/design-patterns/advisors/pattern-advisor/SKILL.md`
   found the decision labels and simpler-refactor checks.
 - Pattern family routing:
-  `rg -n "creational|structural|behavioral" skillsets/design-patterns/advisors/pattern-advisor/SKILL.md`
+  `rg -n "creational|structural|behavioral" cleaner-code-skillsets/design-patterns/advisors/pattern-advisor/SKILL.md`
   found all three routing families in the description and output decisions.
 
 ## Open Risks
