@@ -1,5 +1,5 @@
 ---
-name: mediator
+name: cleaner-code:mediator
 description: Use when many collaborators communicate through tangled direct references and coordination rules need one explicit home
 ---
 

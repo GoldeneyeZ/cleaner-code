@@ -10,7 +10,7 @@ Example:
 
 ```yaml
 ---
-name: hexagonal-architecture
+name: cleaner-code:hexagonal-architecture
 description: Use when application core logic needs clearer boundaries from delivery mechanisms, persistence, or external services
 ---
 ```

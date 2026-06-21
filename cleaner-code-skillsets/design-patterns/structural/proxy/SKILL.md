@@ -1,5 +1,5 @@
 ---
-name: proxy
+name: cleaner-code:proxy
 description: Use when access to another object needs controlled lazy loading, authorization, remoting, caching, or instrumentation behind the same interface
 ---
 

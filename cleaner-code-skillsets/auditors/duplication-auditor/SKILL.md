@@ -1,5 +1,5 @@
 ---
-name: duplication-auditor
+name: cleaner-code:duplication-auditor
 description: Use when reviewing repeated logic, copy-pasted branches, parallel structures, duplicated tests, and drift-prone implementations
 ---
 

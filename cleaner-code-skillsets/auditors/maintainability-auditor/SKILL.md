@@ -1,5 +1,5 @@
 ---
-name: maintainability-auditor
+name: cleaner-code:maintainability-auditor
 description: Use when reviewing code for change difficulty, ownership clarity, local reasoning, module size, and long-term maintenance risk
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: vertical-slice-architecture
+name: cleaner-code:vertical-slice-architecture
 description: Use when features should be organized by use case to reduce cross-layer editing and improve local change ownership
 ---
 

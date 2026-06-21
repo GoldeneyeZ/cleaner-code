@@ -1,5 +1,5 @@
 ---
-name: composite
+name: cleaner-code:composite
 description: Use when clients need to treat individual objects and object trees uniformly through a stable component contract
 ---
 

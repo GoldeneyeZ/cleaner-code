@@ -1,5 +1,5 @@
 ---
-name: security-auditor
+name: cleaner-code:security-auditor
 description: Use when reviewing authentication, authorization, input handling, secrets, cryptography, data exposure, and unsafe defaults
 ---
 

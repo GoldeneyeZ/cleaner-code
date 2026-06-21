@@ -1,5 +1,5 @@
 ---
-name: abstract-factory
+name: cleaner-code:abstract-factory
 description: Use when families of related objects must vary together by platform, environment, tenant, or product line without mixing incompatible products
 ---
 

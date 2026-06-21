@@ -1,5 +1,5 @@
 ---
-name: chain-of-responsibility
+name: cleaner-code:chain-of-responsibility
 description: Use when a request may be handled by one of several ordered handlers and sender code should not know which handler applies
 ---
 

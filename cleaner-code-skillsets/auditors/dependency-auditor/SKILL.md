@@ -1,5 +1,5 @@
 ---
-name: dependency-auditor
+name: cleaner-code:dependency-auditor
 description: Use when reviewing third-party dependencies, version risk, transitive exposure, licensing, supply chain, and unnecessary package use
 ---
 

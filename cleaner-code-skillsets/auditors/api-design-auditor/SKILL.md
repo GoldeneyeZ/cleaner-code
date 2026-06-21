@@ -1,5 +1,5 @@
 ---
-name: api-design-auditor
+name: cleaner-code:api-design-auditor
 description: Use when reviewing public interfaces, request and response shapes, error contracts, versioning, naming, and client ergonomics
 ---
 

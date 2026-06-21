@@ -1,5 +1,5 @@
 ---
-name: facade
+name: cleaner-code:facade
 description: Use when clients need a simpler stable entry point over a complex subsystem without hiding required domain decisions
 ---
 

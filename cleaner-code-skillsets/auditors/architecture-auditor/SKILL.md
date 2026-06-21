@@ -1,5 +1,5 @@
 ---
-name: architecture-auditor
+name: cleaner-code:architecture-auditor
 description: Use when reviewing module boundaries, dependency direction, layering, coupling, and architecture decision risks
 ---
 

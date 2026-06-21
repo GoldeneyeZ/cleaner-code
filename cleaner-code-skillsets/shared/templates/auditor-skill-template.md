@@ -10,7 +10,7 @@ Example:
 
 ```yaml
 ---
-name: code-quality-auditor
+name: cleaner-code:code-quality-auditor
 description: Use when reviewing code for maintainability, clarity, coupling, duplication, and avoidable complexity risks
 ---
 ```

@@ -1,5 +1,5 @@
 ---
-name: configuration-conventions
+name: cleaner-code:configuration-conventions
 description: Use when environment variables, config files, defaults, secrets, feature flags, or runtime options should match local conventions
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: performance-auditor
+name: cleaner-code:performance-auditor
 description: Use when reviewing latency, throughput, memory, allocation, caching, query, algorithm, and scalability risks
 ---
 

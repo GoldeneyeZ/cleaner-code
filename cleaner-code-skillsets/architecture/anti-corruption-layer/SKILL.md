@@ -1,5 +1,5 @@
 ---
-name: anti-corruption-layer
+name: cleaner-code:anti-corruption-layer
 description: Use when integrating with legacy, vendor, or external models that should not leak into the local domain model
 ---
 

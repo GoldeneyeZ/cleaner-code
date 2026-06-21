@@ -1,5 +1,5 @@
 ---
-name: visitor
+name: cleaner-code:visitor
 description: Use when many operations must run across a stable object structure without putting every operation on each element type
 ---
 

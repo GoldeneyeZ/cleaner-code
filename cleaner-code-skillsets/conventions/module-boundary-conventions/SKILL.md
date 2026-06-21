@@ -1,5 +1,5 @@
 ---
-name: module-boundary-conventions
+name: cleaner-code:module-boundary-conventions
 description: Use when imports, exports, package boundaries, visibility, layering, or ownership should match local module structure
 ---
 

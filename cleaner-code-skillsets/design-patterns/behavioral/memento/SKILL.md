@@ -1,5 +1,5 @@
 ---
-name: memento
+name: cleaner-code:memento
 description: Use when object state needs explicit snapshots for undo, rollback, or restore without exposing internal representation
 ---
 

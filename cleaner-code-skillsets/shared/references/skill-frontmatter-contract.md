@@ -6,7 +6,7 @@ Every leaf skill must have valid YAML frontmatter with `name` and `description`.
 
 ```yaml
 ---
-name: kebab-case-skill-name
+name: cleaner-code:kebab-case-skill-name
 description: Use when specific triggering conditions tell Codex this skill should be loaded
 ---
 ```

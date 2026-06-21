@@ -1,5 +1,5 @@
 ---
-name: testing-conventions
+name: cleaner-code:testing-conventions
 description: Use when tests should follow local conventions for structure, naming, fixtures, assertions, mocks, and verification commands
 ---
 

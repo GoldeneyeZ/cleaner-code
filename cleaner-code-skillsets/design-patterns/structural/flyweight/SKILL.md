@@ -1,5 +1,5 @@
 ---
-name: flyweight
+name: cleaner-code:flyweight
 description: Use when many objects duplicate immutable intrinsic state and memory or allocation pressure is proven by evidence
 ---
 

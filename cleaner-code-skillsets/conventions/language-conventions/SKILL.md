@@ -1,5 +1,5 @@
 ---
-name: language-conventions
+name: cleaner-code:language-conventions
 description: Use when language-specific idioms, syntax, typing, formatting, imports, or standard library usage should match local style
 ---
 

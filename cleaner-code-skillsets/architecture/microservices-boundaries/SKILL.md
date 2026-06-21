@@ -1,5 +1,5 @@
 ---
-name: microservices-boundaries
+name: cleaner-code:microservices-boundaries
 description: Use when evaluating service boundaries, independent deployment, ownership, data separation, and distributed-system tradeoffs
 ---
 

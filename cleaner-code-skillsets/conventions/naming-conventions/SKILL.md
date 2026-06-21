@@ -1,5 +1,5 @@
 ---
-name: naming-conventions
+name: cleaner-code:naming-conventions
 description: Use when names for modules, types, functions, variables, tests, or files should match local project vocabulary and style
 ---
 

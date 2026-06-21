@@ -1,5 +1,5 @@
 ---
-name: bridge
+name: cleaner-code:bridge
 description: Use when an abstraction and its implementation vary independently and inheritance or conditionals are coupling both dimensions
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: template-method
+name: cleaner-code:template-method
 description: Use when related algorithms share a stable skeleton but need controlled variation in specific steps
 ---
 

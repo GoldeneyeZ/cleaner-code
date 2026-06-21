@@ -1,5 +1,5 @@
 ---
-name: code-quality-auditor
+name: cleaner-code:code-quality-auditor
 description: Use when reviewing code for clarity, correctness, coupling, cohesion, duplication, naming, and avoidable complexity risks
 ---
 

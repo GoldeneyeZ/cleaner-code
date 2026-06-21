@@ -1,5 +1,5 @@
 ---
-name: complexity-auditor
+name: cleaner-code:complexity-auditor
 description: Use when reviewing branching, nesting, state space, cognitive load, algorithmic complexity, and simplification opportunities
 ---
 

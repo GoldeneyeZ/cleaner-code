@@ -1,5 +1,5 @@
 ---
-name: adapter
+name: cleaner-code:adapter
 description: Use when existing code must integrate an incompatible interface while preserving the client contract or external dependency boundary
 ---
 

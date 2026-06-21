@@ -1,5 +1,5 @@
 ---
-name: unit-of-work
+name: cleaner-code:unit-of-work
 description: Use when multiple repository or persistence operations must commit or roll back as one explicit consistency boundary
 ---
 

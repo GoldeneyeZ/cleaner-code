@@ -1,5 +1,5 @@
 ---
-name: observer
+name: cleaner-code:observer
 description: Use when state changes need to notify multiple dependents without hard-coding those dependents into the subject
 ---
 

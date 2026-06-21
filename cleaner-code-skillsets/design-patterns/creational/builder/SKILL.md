@@ -1,5 +1,5 @@
 ---
-name: builder
+name: cleaner-code:builder
 description: Use when constructing an object requires ordered steps, validation, optional parts, or readable assembly beyond what constructors can express
 ---
 

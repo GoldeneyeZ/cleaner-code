@@ -1,5 +1,5 @@
 ---
-name: pattern-advisor
+name: cleaner-code:pattern-advisor
 description: Use when deciding whether code needs a design pattern, a simpler refactor, or routing to a creational, structural, or behavioral pattern skill
 ---
 

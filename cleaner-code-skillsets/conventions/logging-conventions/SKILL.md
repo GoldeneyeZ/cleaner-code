@@ -1,5 +1,5 @@
 ---
-name: logging-conventions
+name: cleaner-code:logging-conventions
 description: Use when logs, events, correlation fields, severity, message style, or diagnostic context should match local logging practice
 ---
 

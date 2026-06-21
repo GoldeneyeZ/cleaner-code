@@ -10,7 +10,7 @@ Example:
 
 ```yaml
 ---
-name: naming-conventions
+name: cleaner-code:naming-conventions
 description: Use when code names should be checked against local naming style for modules, types, functions, variables, or tests
 ---
 ```

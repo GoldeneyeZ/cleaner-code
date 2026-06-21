@@ -1,5 +1,5 @@
 ---
-name: cqrs
+name: cleaner-code:cqrs
 description: Use when read and write models have proven different scale, consistency, authorization, or shape requirements
 ---
 

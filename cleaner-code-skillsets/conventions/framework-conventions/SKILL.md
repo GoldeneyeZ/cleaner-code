@@ -1,5 +1,5 @@
 ---
-name: framework-conventions
+name: cleaner-code:framework-conventions
 description: Use when framework components, lifecycle hooks, routing, dependency injection, data access, or tests should match local framework style
 ---
 

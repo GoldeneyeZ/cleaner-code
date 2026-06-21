@@ -1,5 +1,5 @@
 ---
-name: repository
+name: cleaner-code:repository
 description: Use when domain code needs collection-like access to persisted aggregates without leaking query or storage details
 ---
 

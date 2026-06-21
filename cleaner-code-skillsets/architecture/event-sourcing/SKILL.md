@@ -1,5 +1,5 @@
 ---
-name: event-sourcing
+name: cleaner-code:event-sourcing
 description: Use when durable event history, auditability, temporal reconstruction, or replay is a core business requirement
 ---
 

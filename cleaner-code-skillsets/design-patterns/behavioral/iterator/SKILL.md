@@ -1,5 +1,5 @@
 ---
-name: iterator
+name: cleaner-code:iterator
 description: Use when clients need sequential traversal over a collection without depending on its internal representation
 ---
 

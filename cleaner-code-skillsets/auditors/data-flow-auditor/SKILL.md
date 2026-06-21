@@ -1,5 +1,5 @@
 ---
-name: data-flow-auditor
+name: cleaner-code:data-flow-auditor
 description: Use when reviewing how data moves through parsing, validation, transformation, storage, caching, and output boundaries
 ---
 

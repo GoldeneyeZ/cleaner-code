@@ -1,5 +1,5 @@
 ---
-name: immutability-conventions
+name: cleaner-code:immutability-conventions
 description: Use when mutation, copying, value objects, collections, or state updates should match local immutability style
 ---
 

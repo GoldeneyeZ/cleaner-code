@@ -1,5 +1,5 @@
 ---
-name: domain-driven-design
+name: cleaner-code:domain-driven-design
 description: Use when complex business rules, ubiquitous language, aggregates, bounded contexts, or domain modeling need architectural guidance
 ---
 

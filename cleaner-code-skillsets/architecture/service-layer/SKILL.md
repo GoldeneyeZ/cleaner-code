@@ -1,5 +1,5 @@
 ---
-name: service-layer
+name: cleaner-code:service-layer
 description: Use when application workflows need an explicit orchestration boundary between delivery mechanisms and domain or data logic
 ---
 

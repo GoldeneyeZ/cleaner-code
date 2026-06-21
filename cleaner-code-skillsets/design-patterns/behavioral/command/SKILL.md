@@ -1,5 +1,5 @@
 ---
-name: command
+name: cleaner-code:command
 description: Use when actions need to be represented as objects for queuing, undo, logging, retries, scheduling, or decoupled invocation
 ---
 

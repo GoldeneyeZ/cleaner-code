@@ -1,5 +1,5 @@
 ---
-name: event-driven-architecture
+name: cleaner-code:event-driven-architecture
 description: Use when decoupled components need to react to business or system events with explicit delivery and consistency tradeoffs
 ---
 

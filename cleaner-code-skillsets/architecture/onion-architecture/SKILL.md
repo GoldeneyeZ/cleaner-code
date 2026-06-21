@@ -1,5 +1,5 @@
 ---
-name: onion-architecture
+name: cleaner-code:onion-architecture
 description: Use when domain model independence and inward dependency direction need protection from infrastructure and application services
 ---
 

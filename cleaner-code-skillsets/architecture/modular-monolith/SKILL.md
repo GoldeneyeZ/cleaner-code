@@ -1,5 +1,5 @@
 ---
-name: modular-monolith
+name: cleaner-code:modular-monolith
 description: Use when a single deployable needs stronger internal module boundaries without microservice operational cost
 ---
 

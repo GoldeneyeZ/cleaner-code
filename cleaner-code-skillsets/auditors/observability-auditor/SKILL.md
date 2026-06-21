@@ -1,5 +1,5 @@
 ---
-name: observability-auditor
+name: cleaner-code:observability-auditor
 description: Use when reviewing logging, metrics, tracing, alerting, correlation, diagnostics, and production failure visibility
 ---
 

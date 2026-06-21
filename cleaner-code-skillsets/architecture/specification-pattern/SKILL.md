@@ -1,5 +1,5 @@
 ---
-name: specification-pattern
+name: cleaner-code:specification-pattern
 description: Use when business rules need composable predicates for validation, selection, or policy without scattering conditionals
 ---
 

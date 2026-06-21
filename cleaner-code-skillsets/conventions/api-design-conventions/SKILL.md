@@ -1,5 +1,5 @@
 ---
-name: api-design-conventions
+name: cleaner-code:api-design-conventions
 description: Use when public interfaces, method signatures, request shapes, response shapes, or error contracts need local consistency
 ---
 

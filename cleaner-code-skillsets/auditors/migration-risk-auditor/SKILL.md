@@ -1,5 +1,5 @@
 ---
-name: migration-risk-auditor
+name: cleaner-code:migration-risk-auditor
 description: Use when reviewing schema, data, API, dependency, platform, or behavior migrations for rollout and rollback risk
 ---
 

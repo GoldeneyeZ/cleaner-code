@@ -10,7 +10,7 @@ Example:
 
 ```yaml
 ---
-name: strategy
+name: cleaner-code:strategy
 description: Use when existing code has multiple interchangeable algorithms selected by conditionals or configuration
 ---
 ```

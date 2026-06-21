@@ -1,5 +1,5 @@
 ---
-name: clean-code-conventions
+name: cleaner-code:clean-code-conventions
 description: Use when aligning code clarity, function shape, naming, comments, control flow, and structure with local project style
 ---
 

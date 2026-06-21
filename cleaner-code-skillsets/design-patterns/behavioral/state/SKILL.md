@@ -1,5 +1,5 @@
 ---
-name: state
+name: cleaner-code:state
 description: Use when an object's behavior changes by lifecycle state and conditionals for state-specific behavior are growing or duplicated
 ---
 

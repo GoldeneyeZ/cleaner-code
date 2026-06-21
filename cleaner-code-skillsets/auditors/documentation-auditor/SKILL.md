@@ -1,5 +1,5 @@
 ---
-name: documentation-auditor
+name: cleaner-code:documentation-auditor
 description: Use when reviewing comments, README files, API docs, runbooks, examples, and documentation accuracy against behavior
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: strategy
+name: cleaner-code:strategy
 description: Use when existing code has multiple interchangeable algorithms selected by conditionals, configuration, type checks, or duplicated variants
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: error-handling-conventions
+name: cleaner-code:error-handling-conventions
 description: Use when errors, exceptions, retries, fallbacks, messages, or result types should match local handling style
 ---
 

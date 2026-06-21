@@ -1,5 +1,5 @@
 ---
-name: async-conventions
+name: cleaner-code:async-conventions
 description: Use when async code, promises, tasks, callbacks, cancellation, timeouts, or concurrency style should match local practice
 ---
 

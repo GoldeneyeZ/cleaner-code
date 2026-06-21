@@ -1,5 +1,5 @@
 ---
-name: test-quality-auditor
+name: cleaner-code:test-quality-auditor
 description: Use when reviewing tests for behavioral coverage, reliability, assertions, isolation, fixtures, and regression protection
 ---
 

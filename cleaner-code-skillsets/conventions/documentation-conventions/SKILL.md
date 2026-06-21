@@ -1,5 +1,5 @@
 ---
-name: documentation-conventions
+name: cleaner-code:documentation-conventions
 description: Use when comments, README files, examples, API docs, runbooks, or usage notes should match local documentation style
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: dependency-conventions
+name: cleaner-code:dependency-conventions
 description: Use when adding, replacing, importing, pinning, or organizing dependencies should match local dependency policy
 ---
 

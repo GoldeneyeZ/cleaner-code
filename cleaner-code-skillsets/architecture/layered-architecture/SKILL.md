@@ -1,5 +1,5 @@
 ---
-name: layered-architecture
+name: cleaner-code:layered-architecture
 description: Use when code needs clear dependency direction across presentation, application, domain, and infrastructure layers
 ---
 

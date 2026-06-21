@@ -1,5 +1,5 @@
 ---
-name: concurrency-auditor
+name: cleaner-code:concurrency-auditor
 description: Use when reviewing async behavior, locking, shared state, races, deadlocks, ordering, cancellation, and parallel execution risk
 ---
 

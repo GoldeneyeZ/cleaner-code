@@ -1,5 +1,5 @@
 ---
-name: ports-and-adapters
+name: cleaner-code:ports-and-adapters
 description: Use when core use cases need explicit inbound and outbound boundaries around external systems or delivery mechanisms
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: dependency-inversion
+name: cleaner-code:dependency-inversion
 description: Use when high-level policy depends on low-level details and dependency direction may be blocking testing or change
 ---
 

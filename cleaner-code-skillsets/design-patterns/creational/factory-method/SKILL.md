@@ -1,5 +1,5 @@
 ---
-name: factory-method
+name: cleaner-code:factory-method
 description: Use when object creation varies by stable policy or subtype and callers should depend on a creator hook instead of concrete constructors
 ---
 

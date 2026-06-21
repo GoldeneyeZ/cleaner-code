@@ -1,5 +1,5 @@
 ---
-name: decorator
+name: cleaner-code:decorator
 description: Use when behavior must be added around an object dynamically while preserving the same client-facing interface
 ---
 

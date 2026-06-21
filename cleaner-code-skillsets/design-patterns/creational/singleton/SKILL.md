@@ -1,5 +1,5 @@
 ---
-name: singleton
+name: cleaner-code:singleton
 description: Use when evaluating whether one shared instance is truly required for identity, coordination, or resource ownership constraints
 ---
 

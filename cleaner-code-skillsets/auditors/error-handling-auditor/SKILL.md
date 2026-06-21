@@ -1,5 +1,5 @@
 ---
-name: error-handling-auditor
+name: cleaner-code:error-handling-auditor
 description: Use when reviewing exception flow, error contracts, retries, fallbacks, logging, recovery, and failure-mode clarity
 ---
 

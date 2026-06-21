@@ -1,5 +1,5 @@
 ---
-name: clean-architecture
+name: cleaner-code:clean-architecture
 description: Use when business rules need stable independence from frameworks, UI, databases, and external delivery mechanisms
 ---
 

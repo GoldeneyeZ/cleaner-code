@@ -1,5 +1,5 @@
 ---
-name: prototype
+name: cleaner-code:prototype
 description: Use when new objects should be created by copying configured exemplars while preserving complex setup or runtime-selected variants
 ---
 

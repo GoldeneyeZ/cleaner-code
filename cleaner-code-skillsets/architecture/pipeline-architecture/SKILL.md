@@ -1,5 +1,5 @@
 ---
-name: pipeline-architecture
+name: cleaner-code:pipeline-architecture
 description: Use when data or requests move through ordered processing stages that need explicit composition, validation, or transformation
 ---
 
